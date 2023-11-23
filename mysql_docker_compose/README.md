@@ -1,3 +1,5 @@
+## Running a MySQL Database with Docker Compose: A Beginner's Guide
+
 #### Understanding the Docker Compose YAML File
 
 This file defines two services, `mysql` and `adminer`, which are responsible for running the MySQL database and Adminer, a web-based database management tool.
