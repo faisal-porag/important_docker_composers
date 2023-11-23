@@ -18,3 +18,4 @@ For rabbitmq dev portal
 http://127.0.0.1:15672
 ```
 
+*Note*: The default administrator username and password are `guest` and `guest`
